@@ -59,7 +59,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
+                  "JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth"
                 }
               />
             </div>
@@ -74,7 +74,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
+                  "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Three.js."
                 }
               />
             </div>
@@ -89,7 +89,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Figma, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, UX Research, UI Design, Prototyping."
+                  "Figma, FigJam, Adobe XD, Adobe Photoshop, UX Research, UI Design"
                 }
               />
             </div>
