@@ -12,7 +12,7 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "Portfolio 2023 version 1",
+    name: "Portfolio 1",
     description:
       "This is the fifth iteration of my portfolio.",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
@@ -23,7 +23,7 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "Get-Information",
+    name: "G-Inform",
     description:
       "The goal of this project is to give you an idea about types of information that websites can collect and access from you.",
     technologies: ["Next","Tailwind CSS"],
