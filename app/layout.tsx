@@ -54,7 +54,7 @@ export const metadata: Metadata = {
       siteName: "Arnab's Portfolio",
       images: [
           {
-              url: "./public/Arnab.jpg",
+              url: "https://raw.githubusercontent.com/arnab-4/Arnab-portfolio-v2/main/public/Arnab.jpg",
               width: 1200,
               height: 630,
               alt: "Arnab Manna - Designer and Developer",
