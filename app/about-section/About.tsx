@@ -38,7 +38,7 @@ const About = () => {
     "In addition to my work in software development, I’m also an active leader  of tech community: "
   }
 />
-<span className=" text-yellow-400">"HackerSpace"</span>
+<span className=" text-yellow-400">&quot;HackerSpace&quot;</span>
 
             <AnimatedBody
               text={
