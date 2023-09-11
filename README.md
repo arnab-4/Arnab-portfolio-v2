@@ -7,7 +7,7 @@
 <p align="center">Welcome to my portfolio website, showcasing my work and skills as a web developer. This portfolio is built using Next.js, TypeScript, JavaScript, React, and Framer Motion.</p>
 
 <p align="center">
-  <a href="https://arnab-portfolio-swart.vercel.app/">Visit the live site</a>
+  <a href="https://arnab-portfolio-v2.vercel.app/">Visit the live site</a>
 </p>
 
 ## Table of Contents
@@ -34,7 +34,7 @@ This portfolio serves as a showcase of my projects, skills, and experience as a 
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Arnab-portfolio
+   cd Arnab-portfolio-v2
 
 3. **Install the project dependencies:**
    ```bash
