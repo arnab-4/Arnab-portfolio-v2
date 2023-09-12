@@ -28,7 +28,7 @@ export const devProjects = [
       "The goal of this project is to give you an idea about types of information that websites can collect and access from you.",
     technologies: ["Next","Tailwind CSS"],
     github: "https://github.com/arnab-4/Get-Information",
-    demo: "https://sky-watch.vercel.app/",
+    demo: "https://getinfromation.netlify.app/",
     image: require(".//../../public/projects/getinformation.png"),
     available: true,
   },
