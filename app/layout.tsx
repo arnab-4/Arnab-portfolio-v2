@@ -11,14 +11,13 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://github.com/arnab-4"),
-  title: "My portfolio",
+  title: "Arnab Manna || My portfolio",
   description:
-  "Hobby Designer and Software Engineer and create something new",
+    "Welcome to my portfolio website! Here, you'll find a curated collection of my creative endeavors, showcasing my passion and expertise. From captivating graphic designs to innovative web development projects, I aim to blend artistry with technology. Explore my work to witness a fusion of aesthetics and functionality that reflects my dedication to crafting meaningful digital experiences. Thank you for visiting, and I look forward to sharing my journey with you.",
   generator: "Next.js",
   applicationName: "Arnab Manna",
   keywords: [
-      "Arnab Manna",
+    "Arnab Manna",
       "Arnab",
       "Design",
       "Visuals",
@@ -47,9 +46,9 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-      title: "Arnab Manna - Designer and Developer",
-      description:
-    "Hobby Designer and Software Engineer and create something new",
+    title: "Arnab Manna - Designer and Developer",
+    description:
+      "Hobby Designer and Software Engineer and create something new",
       url: "https://github.com/arnab-4",
       siteName: "Arnab's Portfolio",
       images: [
@@ -64,26 +63,26 @@ export const metadata: Metadata = {
       type: "website",
   },
   twitter: {
-      card: "summary_large_image",
-      title: "Arnab Manna - Designer and Developer",
-      description:
-    "Hobby Designer and Software Engineer and create something new",
-      creator: "Arnab Manna",
-      creatorId: "000000",
-      images: ["./public/Arnab.jpg"],
-  },
+    card: "summary_large_image",
+    title: "Arnab Manna - Designer and Developer",
+    description:
+  "Hobby Designer and Software Engineer and create something new",
+    creator: "Arnab Manna",
+    creatorId: "123456789",
+    images: ["https://raw.githubusercontent.com/arnab-4/Arnab-portfolio-v2/main/public/Arnab.jpg"],
+},
   robots: {
+    index: true,
+    follow: true,
+    nocache: false,
+    googleBot: {
       index: true,
-      follow: true,
-      nocache: false,
-      googleBot: {
-          index: true,
-          follow: false,
-          noimageindex: true,
-          "max-video-preview": -1,
-          "max-image-preview": "large",
-          "max-snippet": -1,
-      },
+      follow: false,
+      noimageindex: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
   category: "technology",
 };
