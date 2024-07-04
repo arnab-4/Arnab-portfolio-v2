@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    // Correct options
+  // Example: if you had `assetPrefix: '/foo'` which is deprecated, change it to `basePath: '/foo'`
+  basePath: '/foo',
   experimental: {
     appDir: true,
   },
