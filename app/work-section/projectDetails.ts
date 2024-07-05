@@ -12,13 +12,13 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "Portfolio 1",
+    name: "Algo-Analysis",
     description:
-      "This is the fifth iteration of my portfolio.",
-    technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/arnab-4",
-    demo: "https://arnab-portfolio-swart.vercel.app/",
-    image: require(".//../../public/projects/portfolio.png"),
+      "This project provide a platform for analyzing and visualizing algorithms. Whether you're a student learning about algorithms or a professional wanting to explore different algorithms .",
+    technologies: ["Next.js", "Tailwind CSS"],
+    github: "https://github.com/arnab-4/Algo-analysis",
+    demo: "https://algo-analysis.netlify.app/",
+    image: require(".//../../public/projects/Algo-analysis.png"),
     available: true,
   },
   {
@@ -34,13 +34,13 @@ export const devProjects = [
   },
   {
     id: 2,
-    name: "Destroyer",
+    name: "Gemini-Ultra",
     description:
-      "I'm currently working on a couple of projects. I'll update this section as soon as I'm done.",
-    technologies: ["OpenAI","Next","Tailwind CSS"],
-    github: "https://github.com/arnab-4/Destroyer",
-    demo: "/",
-    image: require(".//../../public/projects/construction.webp"),
+      "Gemini-ultra is a versatile chatbot integrating text, image, and voice interactions. Explore advanced multimedia capabilities for enhanced user engagement. Ideal for integrating into web, mobile, and voice assistant applications.",
+    technologies: ["Gemini","Next","Tailwind","OpenAI"],
+    github: "https://github.com/arnab-4/Gemini-Ultra",
+    demo: "https://gemini-ultra-iota.vercel.app/",
+    image: require(".//../../public/projects/Gemini.png"),
     available: true,
   },
 ];
