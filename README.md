@@ -30,7 +30,7 @@ This portfolio serves as a showcase of my projects, skills, and experience as a 
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arnab-4/Arnab-portfolio.git
+   git clone https://github.com/arnab-4/Arnab-portfolio-v2.git
 
 2. **Navigate to the project directory:**
    ```bash
